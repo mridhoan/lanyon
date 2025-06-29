@@ -13,7 +13,7 @@ It's an immensely useful tool and one we encourage you to use here with Lanyon.
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
  [Mozilla ok Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   [lolo Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- https://shopee.co.id/search?keyword=
+- (https://shopee.co.id/search?keyword=)
 - https://shopee.co.id/search?keyword=
 - https://shopee.co.id/search?keyword=
 - https://shopee.co.id/search?keyword=
